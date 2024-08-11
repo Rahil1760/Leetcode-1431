@@ -4,7 +4,7 @@
  * @return {number[]}
  */
 var findIntersectionValues = function(nums1, nums2) {
-    let result = [0,0]
+        let result = [0,0]
 const linearSearch = (nums,k)=>{
     for(let i = 0;i<nums.length;i++){
         if(nums[i] == k){
