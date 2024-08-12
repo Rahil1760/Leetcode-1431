@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rahil1760/Leetcode-1431/tree/master/0075-sort-colors) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rahil1760/Leetcode-1431/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rahil1760/Leetcode-1431/tree/master/3206-find-common-elements-between-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rahil1760/Leetcode-1431/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rahil1760/Leetcode-1431/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
