@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rahil1760/Leetcode-1431/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Rahil1760/Leetcode-1431/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahil1760/Leetcode-1431/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Rahil1760/Leetcode-1431/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rahil1760/Leetcode-1431/tree/master/0283-move-zeroes) |
 | [0961-long-pressed-name](https://github.com/Rahil1760/Leetcode-1431/tree/master/0961-long-pressed-name) |
 ## Sorting
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Rahil1760/Leetcode-1431/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rahil1760/Leetcode-1431/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rahil1760/Leetcode-1431/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Rahil1760/Leetcode-1431/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Rahil1760/Leetcode-1431/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rahil1760/Leetcode-1431/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Rahil1760/Leetcode-1431/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
