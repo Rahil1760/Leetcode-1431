@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rahil1760/Leetcode-1431/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Rahil1760/Leetcode-1431/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rahil1760/Leetcode-1431/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rahil1760/Leetcode-1431/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rahil1760/Leetcode-1431/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
