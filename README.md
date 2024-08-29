@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rahil1760/Leetcode-1431/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Rahil1760/Leetcode-1431/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rahil1760/Leetcode-1431/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rahil1760/Leetcode-1431/tree/master/0020-valid-parentheses) |
 | [0961-long-pressed-name](https://github.com/Rahil1760/Leetcode-1431/tree/master/0961-long-pressed-name) |
 ## Binary Search
 |  |
