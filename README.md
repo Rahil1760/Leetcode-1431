@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahil1760/Leetcode-1431/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Rahil1760/Leetcode-1431/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rahil1760/Leetcode-1431/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Rahil1760/Leetcode-1431/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rahil1760/Leetcode-1431/tree/master/0780-max-chunks-to-make-sorted) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rahil1760/Leetcode-1431/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rahil1760/Leetcode-1431/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Rahil1760/Leetcode-1431/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/Rahil1760/Leetcode-1431/tree/master/0496-next-greater-element-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rahil1760/Leetcode-1431/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahil1760/Leetcode-1431/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Rahil1760/Leetcode-1431/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Rahil1760/Leetcode-1431/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rahil1760/Leetcode-1431/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Rahil1760/Leetcode-1431/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rahil1760/Leetcode-1431/tree/master/0780-max-chunks-to-make-sorted) |
 ## Prefix Sum
 |  |
