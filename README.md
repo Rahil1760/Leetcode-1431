@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rahil1760/Leetcode-1431/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Rahil1760/Leetcode-1431/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rahil1760/Leetcode-1431/tree/master/0780-max-chunks-to-make-sorted) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rahil1760/Leetcode-1431/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rahil1760/Leetcode-1431/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rahil1760/Leetcode-1431/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rahil1760/Leetcode-1431/tree/master/0780-max-chunks-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rahil1760/Leetcode-1431/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rahil1760/Leetcode-1431/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Greedy
 |  |
 | ------- |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rahil1760/Leetcode-1431/tree/master/0111-minimum-depth-of-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rahil1760/Leetcode-1431/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rahil1760/Leetcode-1431/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
